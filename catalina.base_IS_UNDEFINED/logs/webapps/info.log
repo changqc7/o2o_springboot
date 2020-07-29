@@ -1,0 +1,47 @@
+2020-07-29 00:19:14.384 [main] INFO  com.imooc.o2o.dao.AreaDaoTest - Starting AreaDaoTest on LAPTOP-R4JPPHM9 with PID 28848 (started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 00:19:14.386 [main] INFO  com.imooc.o2o.dao.AreaDaoTest - No active profile set, falling back to default profiles: default
+2020-07-29 00:19:54.272 [main] INFO  com.imooc.o2o.dao.AreaDaoTest - Starting AreaDaoTest on LAPTOP-R4JPPHM9 with PID 29644 (started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 00:19:54.273 [main] INFO  com.imooc.o2o.dao.AreaDaoTest - No active profile set, falling back to default profiles: default
+2020-07-29 00:19:57.760 [main] INFO  com.imooc.o2o.dao.AreaDaoTest - Started AreaDaoTest in 3.723 seconds (JVM running for 4.663)
+2020-07-29 00:24:27.784 [main] INFO  com.imooc.o2o.dao.ShopDaoTest - Starting ShopDaoTest on LAPTOP-R4JPPHM9 with PID 16800 (started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 00:24:27.785 [main] INFO  com.imooc.o2o.dao.ShopDaoTest - No active profile set, falling back to default profiles: default
+2020-07-29 00:24:31.422 [main] INFO  com.imooc.o2o.dao.ShopDaoTest - Started ShopDaoTest in 3.938 seconds (JVM running for 4.836)
+2020-07-29 01:54:14.553 [main] INFO  com.imooc.o2o.service.WechatAuthServiceTest - Starting WechatAuthServiceTest on LAPTOP-R4JPPHM9 with PID 21784 (started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 01:54:14.554 [main] INFO  com.imooc.o2o.service.WechatAuthServiceTest - No active profile set, falling back to default profiles: default
+2020-07-29 01:54:18.495 [main] INFO  com.imooc.o2o.service.WechatAuthServiceTest - Started WechatAuthServiceTest in 4.192 seconds (JVM running for 5.197)
+2020-07-29 01:55:53.608 [main] INFO  com.imooc.o2o.service.AreaServiceTest - Starting AreaServiceTest on LAPTOP-R4JPPHM9 with PID 23936 (started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 01:55:53.609 [main] INFO  com.imooc.o2o.service.AreaServiceTest - No active profile set, falling back to default profiles: default
+2020-07-29 01:55:57.467 [main] INFO  com.imooc.o2o.service.AreaServiceTest - Started AreaServiceTest in 4.113 seconds (JVM running for 5.046)
+2020-07-29 02:05:21.420 [main] INFO  com.imooc.o2o.service.AreaServiceTest - Starting AreaServiceTest on LAPTOP-R4JPPHM9 with PID 24796 (started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 02:05:21.421 [main] INFO  com.imooc.o2o.service.AreaServiceTest - No active profile set, falling back to default profiles: default
+2020-07-29 02:05:25.245 [main] INFO  com.imooc.o2o.service.AreaServiceTest - Started AreaServiceTest in 4.049 seconds (JVM running for 4.951)
+2020-07-29 02:06:10.729 [main] INFO  com.imooc.o2o.service.AreaServiceTest - Starting AreaServiceTest on LAPTOP-R4JPPHM9 with PID 27276 (started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 02:06:10.730 [main] INFO  com.imooc.o2o.service.AreaServiceTest - No active profile set, falling back to default profiles: default
+2020-07-29 02:06:14.362 [main] INFO  com.imooc.o2o.service.AreaServiceTest - Started AreaServiceTest in 3.874 seconds (JVM running for 4.867)
+2020-07-29 02:07:04.342 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on LAPTOP-R4JPPHM9 with PID 28400 (E:\workspace-sts-3.9.11.RELEASE\o2o\target\classes started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 02:07:04.344 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2020-07-29 02:07:07.652 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 3.652 seconds (JVM running for 4.218)
+2020-07-29 02:09:14.240 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on LAPTOP-R4JPPHM9 with PID 28940 (E:\workspace-sts-3.9.11.RELEASE\o2o\target\classes started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 02:09:14.243 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2020-07-29 02:09:17.954 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 4.101 seconds (JVM running for 4.699)
+2020-07-29 02:09:56.231 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on LAPTOP-R4JPPHM9 with PID 28584 (E:\workspace-sts-3.9.11.RELEASE\o2o\target\classes started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 02:09:56.234 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2020-07-29 02:10:00.076 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 4.268 seconds (JVM running for 4.823)
+2020-07-29 02:12:09.041 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on LAPTOP-R4JPPHM9 with PID 25380 (E:\workspace-sts-3.9.11.RELEASE\o2o\target\classes started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 02:12:09.043 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2020-07-29 02:12:12.472 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 3.767 seconds (JVM running for 4.334)
+2020-07-29 02:16:41.402 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on LAPTOP-R4JPPHM9 with PID 27740 (E:\workspace-sts-3.9.11.RELEASE\o2o\target\classes started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 02:16:41.405 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2020-07-29 02:16:45.247 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 4.222 seconds (JVM running for 4.873)
+2020-07-29 02:26:00.180 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on LAPTOP-R4JPPHM9 with PID 22124 (E:\workspace-sts-3.9.11.RELEASE\o2o\target\classes started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 02:26:00.183 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2020-07-29 02:26:04.167 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 4.388 seconds (JVM running for 5.01)
+2020-07-29 02:33:06.804 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on LAPTOP-R4JPPHM9 with PID 6688 (E:\workspace-sts-3.9.11.RELEASE\o2o\target\classes started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 02:33:06.807 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2020-07-29 02:33:10.096 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 3.609 seconds (JVM running for 4.185)
+2020-07-29 02:43:12.038 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on LAPTOP-R4JPPHM9 with PID 13900 (E:\workspace-sts-3.9.11.RELEASE\o2o\target\classes started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 02:43:12.041 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2020-07-29 02:43:15.493 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 3.774 seconds (JVM running for 4.283)
+2020-07-29 04:34:32.378 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on LAPTOP-R4JPPHM9 with PID 28256 (E:\workspace-sts-3.9.11.RELEASE\o2o\target\classes started by 38140 in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-07-29 04:34:32.381 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2020-07-29 04:34:35.933 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 3.883 seconds (JVM running for 4.388)
